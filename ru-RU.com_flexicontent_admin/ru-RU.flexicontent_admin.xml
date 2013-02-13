@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.7" client="administrator" type="language" method="upgrade">
+<name>Russian flexicontent</name>
+    <tag>ru-RU</tag>
+    <version>1.0</version>
+    <creationDate>2012.12.20</creationDate>
+    <author>Joomline</author>
+	<authorEmail>sale@joomline.ru</authorEmail>
+	<authorUrl>joomline.ru</authorUrl>
+    <copyright>Joomline</copyright>
+<license>GNU General Public License version 2 or later</license>
+<description>Russian language administrator for FLEXIcontent 2</description>
+	<files>
+		<filename>ru-RU.com_flexicontent.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_checkbox.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_checkboximage.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_core.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_date.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_email.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_extendedweblink.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_fcloadmodule.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_fcpagenav.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_file.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_groupmarker.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_image.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_linkslist.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_minigallery.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_radio.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_radioimage.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_relateditems.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_relateditems_backlinks.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_select.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_selectmultiple.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_text.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_textarea.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_toolbar.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_videouppod.ini</filename>
+		<filename>ru-RU.plg_flexicontent_fields_weblink.ini</filename>
+		<filename>ru-RU.plg_flexicontent_flexinotify.ini</filename>
+	</files>
+</install>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="1.7">
+<name>Russian Language Pack for FLEXIcontent</name>
+<packagename>pkg_ru-RU_flexicontent</packagename>
+<version>1.0</version>
+<url>http://www.joomline.ru</url>
+<packager>Joomline</packager>
+<packagerurl>http://www.joomline.ru</packagerurl>
+<description>Russian language for FLEXIcontent 2</description>
+<files>
+        <file type="language" client="site" id="ru-RU">ru-RU.com_flexicontent.site.zip</file>
+        <file type="language" client="admin" id="ru-RU">ru-RU.com_flexicontent_admin.zip</file>
+</files>
+</extension>
